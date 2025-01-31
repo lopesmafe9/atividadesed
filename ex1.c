@@ -1,4 +1,4 @@
---Seja e uma variável contendo o número de erros detectados num certo processo. Codifique uma instrução capaz de exibir saída como: 1 erro detectado, 5 erros detectados.--
+/*Seja e uma variável contendo o número de erros detectados num certo processo. Codifique uma instrução capaz de exibir saída como: 1 erro detectado, 5 erros detectados.*/
 
 #include <stdio.h>
 
