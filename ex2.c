@@ -1,4 +1,4 @@
---Dados os coeficientes (a, b e c) de uma equação de 2º grau, calcule e informe suas raízes reais, usando a fórmula de Báskara.--
+/*Dados os coeficientes (a, b e c) de uma equação de 2º grau, calcule e informe suas raízes reais, usando a fórmula de Báskara.*/
 
 #include <stdio.h>
 #include <math.h>
